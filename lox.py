@@ -1,0 +1,6 @@
+print("lox")
+print("lox")
+print("lox")
+print("lox")
+print("lox")
+print("lox")
